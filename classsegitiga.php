@@ -45,6 +45,7 @@ class Segitiga {
         echo "Keliling : " . $this->hitungKeliling() . "<br>";
         echo "Jenis : " . $this->cekJenis() . "<br>";
         echo "===============================<br><br>";
+        echo "Khairunnisa";
     }
 }
 ?>
